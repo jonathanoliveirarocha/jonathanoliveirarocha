@@ -26,4 +26,4 @@
 - Microservices 
 - Serverless Functions
 
-#### Além disso, sou apaixonado por física e, assim que terminar minha primeira graduação, farei outra na área!
+#### Além disso, sou apaixonado por física e, assim que terminar minha primeira graduação, farei outra na área! 
