@@ -10,8 +10,8 @@
 - Python
 - Node.js
 - Django
-- Express
 - MySQL
+- Express
 
 #### Tecnologias de Front-end:
 - HTML
