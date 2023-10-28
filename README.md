@@ -6,7 +6,7 @@ Hello, My name is Jonathan, I'm 20 years old, I live in Brazil and I'm passionat
 
 ### Education:
 
-- System analysis and development (Associate degree) - <a href="https://www.cruzeirodosulvirtual.com.br/">UNICSUL</a>
+- System analysis and development (Associate Degree) - <a href="https://www.cruzeirodosulvirtual.com.br/">UNICSUL</a>
 - IT Technician for Internet (Associate Degree) - <a href="https://www.fiemg.com.br/senai/">SENAI</a>
 - IBM Full Stack Software Developer - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/297YK7ZHWHLC">IBM/Coursera</a>
 
