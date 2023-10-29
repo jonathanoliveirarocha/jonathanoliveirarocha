@@ -21,14 +21,15 @@ Hello, My name is Jonathan, I'm 20 years old, I live in Brazil and I'm passionat
 
 <br />
 
-<div style="margin-top:10px;">
-<a href="https://github.com/jonathanoliveirarocha?tab=repositories"><img  align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=jonathanoliveirarocha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My activity" /></a> <a href="https://github.com/jonathanoliveirarocha?tab=repositories"><img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanoliveirarocha&layout=compact&theme=buefy&hide_border=true" /></a>
+<div>
+  <a href="https://github.com/jonathanoliveirarocha?tab=repositories"><img  align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=jonathanoliveirarocha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My activity" /></a>
+  <a href="https://github.com/jonathanoliveirarocha?tab=repositories"><img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanoliveirarocha&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
 ### Technologies I know:
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
