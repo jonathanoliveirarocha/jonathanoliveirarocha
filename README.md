@@ -2,13 +2,13 @@
 
 ### About me:
 
-Hello, My name is Jonathan, I'm 21 years old, I live in Brazil and I'm passionate about technology 👨🏻‍💻. I have been studying computing for 3 years. In addition, I love music 🎵 and astronomy 🌌 .
+Hello, My name is Jonathan, I'm 21 years old, I live in Brazil and I'm passionate about technology 👨🏻‍💻. I have been studying computing for 4 years. In addition, I love music 🎵 and astronomy 🌌 .
 
 ### Education:
 
 - System analysis and development (Associate Degree) - <a href="https://www.cruzeirodosulvirtual.com.br/">UNICSUL</a>
 - IT Technician for Internet (Associate Degree) - <a href="https://www.fiemg.com.br/senai/">SENAI</a>
-- IBM Full Stack Software Developer - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/297YK7ZHWHLC">IBM/Coursera</a>
+- IBM Full Stack Software Developer - <a href="https://www.coursera.org/account/accomplishments/professional-cert/297YK7ZHWHLC?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof">IBM/Coursera</a>
 
 ### Social:
 
