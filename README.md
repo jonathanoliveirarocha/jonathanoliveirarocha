@@ -16,7 +16,7 @@ Hello, My name is Jonathan, I'm 21 years old, I live in Brazil and I'm passionat
   <a href="https://www.linkedin.com/in/jonathandeoliveirarocha/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5531999414881&text=Hello!!"><img src="https://img.shields.io/badge/-whatsapp-%25230077B5?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
   <a href = "mailto:jonathandeoliveirarocha2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = ""><img src="https://img.shields.io/badge/Portfolio-%236929C4.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href = "https://somerelate.vercel.app/aboutme"><img src="https://img.shields.io/badge/Portfolio-%236929C4.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </div>
 
 <br />
