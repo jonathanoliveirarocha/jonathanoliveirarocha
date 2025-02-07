@@ -2,7 +2,7 @@
 
 ### About me:
 
-Hello, My name is Jonathan, I'm 21 years old, I live in Brazil and I'm passionate about technology 👨🏻‍💻. I have been studying computing for 4 years. In addition, I love music 🎵 and astronomy 🌌 .
+Hello, My name is Jonathan, I'm 22 years old, I live in Brazil and I'm passionate about technology 👨🏻‍💻. I have been studying computing for 4 years. In addition, I love music 🎵 and astronomy 🌌 .
 
 ### Education:
 
